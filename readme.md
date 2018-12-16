@@ -1,4 +1,6 @@
-###### Imperial Secrets Bot
+Imperial Secrets Bot
+
+=============================
 
 This is the bot I used to run the facebook page Imperial Secrets from back in the day before it got zucced.
 
